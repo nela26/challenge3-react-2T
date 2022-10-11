@@ -1,0 +1,106 @@
+*{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin: 0%;
+  padding: 0%;
+ 
+}
+
+body{
+  background-color: red;
+}
+
+
+nav {
+  background: #fffb00;
+  padding: 20px;
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+  text-align: center;
+  font-weight: bold;
+  border: solid 1.9px;
+
+}
+
+
+
+.active {
+  color: red;
+  text-decoration: none;
+}
+
+.no-active {
+  color: #050505;
+  text-decoration: none;
+}
+
+.welcome{
+  text-align: center;
+  margin-top: 4rem;
+}
+
+.img-pikachu{
+  width: 30rem;
+
+}
+
+.search{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+
+
+}
+
+
+.selector{
+margin: 1rem;
+padding: 10px;
+text-align: center;
+
+
+}
+
+
+.img-pokemon{
+  width: 250px;
+}
+
+
+.arrow{
+font-size: 2rem;
+padding: 0%;
+margin: 0%;
+
+
+}
+
+.container-pokemon{
+  display: flex;
+  justify-content: center;
+  margin-top: 10rem;
+}
+
+.container-card{
+  border: 1px solid;
+  margin-right: 4rem;
+  width: 20rem;
+  text-align: center;
+  background-color:#000000;
+  color: white;
+}
+
+.container-description{
+  border: 1px solid;
+  width: 20rem;
+  text-align: center;
+  background-color:#000000;
+  color: white;
+
+ 
+}
+
+.text{
+  margin-top: 4rem;
+}
